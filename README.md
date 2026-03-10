@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://adguard-vpn-pro.github.io/.github">
     <img src="https://i.postimg.cc/Rh4gbRCF/windows-button.png" width="200" alt="AdGuard VPN Pro"/>
   </a>
 </p>
